@@ -5,7 +5,9 @@ Health Data Analysis Project
 This project is completed by Tyler Smith, Pyone Thwe, and Zareena Raheeman.
 
 *https://healthpolicy.ucla.edu/chis/analyze/Pages/default.aspx*
+
 *https://www.cdc.gov/nchhstp/atlas/index.htm*
+
 *https://www.who.int/data/gho*
 
 Table.1 We used "Ask CHIS" on the Calirfornia Health Interview Survey website to find the percent of personas covered by Medi-Cal in San Diego County and Los Angeles County for the years 2012, 2015, and 2018. We included both sexes togehter, ages 18-64 and compated the counties to each other. 
