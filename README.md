@@ -2,6 +2,7 @@
 Health Data Analysis Project
 
 **Introduction**
+
 This project is completed by Tyler Smith, Pyone Thwe, and Zareena Raheeman.
 
 *https://healthpolicy.ucla.edu/chis/analyze/Pages/default.aspx*
