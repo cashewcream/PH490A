@@ -1,7 +1,7 @@
 # PH490A
 Health Data Analysis Project
 
-**Introduction**
+ **Introduction**
 
 This project is completed by Tyler Smith, Pyone Thwe, and Zareena Raheeman.
 
